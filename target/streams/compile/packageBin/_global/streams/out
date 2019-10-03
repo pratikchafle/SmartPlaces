@@ -1,0 +1,33 @@
+[debug] Packaging C:\Users\pratik.chafle\OneDrive - Accenture\O2 Sbt\SmartPlaces\target\scala-2.11\smartplaces_2.11-0.1.jar ...
+[debug] Input file mappings:
+[debug] 	
+[debug] 	  C:\Users\pratik.chafle\OneDrive - Accenture\O2 Sbt\SmartPlaces\target\scala-2.11\classes
+[debug] 	com
+[debug] 	  C:\Users\pratik.chafle\OneDrive - Accenture\O2 Sbt\SmartPlaces\target\scala-2.11\classes\com
+[debug] 	com\smartplaces
+[debug] 	  C:\Users\pratik.chafle\OneDrive - Accenture\O2 Sbt\SmartPlaces\target\scala-2.11\classes\com\smartplaces
+[debug] 	com\smartplaces\dwells
+[debug] 	  C:\Users\pratik.chafle\OneDrive - Accenture\O2 Sbt\SmartPlaces\target\scala-2.11\classes\com\smartplaces\dwells
+[debug] 	com\smartplaces\dwells\loadDwells$.class
+[debug] 	  C:\Users\pratik.chafle\OneDrive - Accenture\O2 Sbt\SmartPlaces\target\scala-2.11\classes\com\smartplaces\dwells\loadDwells$.class
+[debug] 	com\smartplaces\dwells\loadDwells.class
+[debug] 	  C:\Users\pratik.chafle\OneDrive - Accenture\O2 Sbt\SmartPlaces\target\scala-2.11\classes\com\smartplaces\dwells\loadDwells.class
+[debug] 	com\smartplaces\origin
+[debug] 	  C:\Users\pratik.chafle\OneDrive - Accenture\O2 Sbt\SmartPlaces\target\scala-2.11\classes\com\smartplaces\origin
+[debug] 	com\smartplaces\origin\loadOrigin$.class
+[debug] 	  C:\Users\pratik.chafle\OneDrive - Accenture\O2 Sbt\SmartPlaces\target\scala-2.11\classes\com\smartplaces\origin\loadOrigin$.class
+[debug] 	com\smartplaces\origin\loadOrigin.class
+[debug] 	  C:\Users\pratik.chafle\OneDrive - Accenture\O2 Sbt\SmartPlaces\target\scala-2.11\classes\com\smartplaces\origin\loadOrigin.class
+[debug] 	com\smartplaces\userattachment
+[debug] 	  C:\Users\pratik.chafle\OneDrive - Accenture\O2 Sbt\SmartPlaces\target\scala-2.11\classes\com\smartplaces\userattachment
+[debug] 	com\smartplaces\userattachment\loadUserAttachment$.class
+[debug] 	  C:\Users\pratik.chafle\OneDrive - Accenture\O2 Sbt\SmartPlaces\target\scala-2.11\classes\com\smartplaces\userattachment\loadUserAttachment$.class
+[debug] 	com\smartplaces\userattachment\loadUserAttachment.class
+[debug] 	  C:\Users\pratik.chafle\OneDrive - Accenture\O2 Sbt\SmartPlaces\target\scala-2.11\classes\com\smartplaces\userattachment\loadUserAttachment.class
+[debug] 	com\smartplaces\users
+[debug] 	  C:\Users\pratik.chafle\OneDrive - Accenture\O2 Sbt\SmartPlaces\target\scala-2.11\classes\com\smartplaces\users
+[debug] 	com\smartplaces\users\loadUsers$.class
+[debug] 	  C:\Users\pratik.chafle\OneDrive - Accenture\O2 Sbt\SmartPlaces\target\scala-2.11\classes\com\smartplaces\users\loadUsers$.class
+[debug] 	com\smartplaces\users\loadUsers.class
+[debug] 	  C:\Users\pratik.chafle\OneDrive - Accenture\O2 Sbt\SmartPlaces\target\scala-2.11\classes\com\smartplaces\users\loadUsers.class
+[debug] Done packaging.
